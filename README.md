@@ -12,7 +12,7 @@ Welcome. I'm a software engineering student looking to evolve as a person and pr
 
 <br>
 <div align="center">
-    <h2  style="color:LightSkyBlue"><span>🛠️ My Skill's</span></h2>
+    <h2><span>🛠️ My Skill's</span></h2>
 </div>
 
 <div align="center"><br>
