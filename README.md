@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" >
-    <h1><strong> Hi! I'm Daniel👋 </strong></h1>
+    <h1><strong>Hi! I'm Daniel👋</strong></h1>
 </div>
 
 Welcome. I'm a software engineering student looking to evolve as a person and professional in this universe that I've always loved. 💻🔥.
@@ -24,7 +24,7 @@ Welcome. I'm a software engineering student looking to evolve as a person and pr
 <br><br>
 
 <div align="center">
-    <h2> <a href="https://github.com/stars/DanMon88/lists/study" style="color:LightSkyBlue">🚀A little of what I know 🚀</h2>
+    <h2> <a href="https://github.com/stars/DanMon88/lists/study">🚀A little of what I know 🚀</a></h2>
 </div>
 <br>
 <div align="center">
@@ -33,8 +33,7 @@ Welcome. I'm a software engineering student looking to evolve as a person and pr
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanMon88&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMon88&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br>
 
-<div align="center" > 
-  <a href="https://drive.google.com/drive/folders/1SQbGGkXplrn7yaYKT2mfbRSO-PDATmS4?usp=drive_link" target="_blank">🌟</a>
+<div align="center"> 
+  <h1><a href="https://drive.google.com/drive/folders/1SQbGGkXplrn7yaYKT2mfbRSO-PDATmS4?usp=drive_link" target="_blank">🌟</a></h1>
 </div>
