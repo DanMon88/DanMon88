@@ -24,14 +24,14 @@ Welcome. I'm a software engineering student looking to evolve as a person and pr
 <br><br>
 
 <div align="center">
-    <h2> <a href="https://github.com/stars/DanMon88/lists/study">🚀A little of what I know 🚀</a></h2>
+    <h2> <a href="https://github.com/stars/DanielMonteiroC/lists/study">🚀A little of what I know 🚀</a></h2>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/DanMon88">
-  <img height="150em" src="https://streak-stats.demolab.com/?user=DanMon88&theme=dark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanMon88&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMon88&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/DanielMonteiroC">
+  <img height="150em" src="https://streak-stats.demolab.com/?user=DanielMonteiroC&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielMonteiroC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMonteiroC&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center"> 
